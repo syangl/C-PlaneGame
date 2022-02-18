@@ -1,2 +1,4 @@
 # C-Practice
-A classic small game: Plane Fight
+Homework and practice in C++.
+
+A classic small game: Plane Fight.
